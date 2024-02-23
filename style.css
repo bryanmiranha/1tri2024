@@ -67,7 +67,7 @@ body{
     border: 4px solid var(--verde)
 }
 
-.abas-texto{
+.abas-textos{
     background-color: var(--texto-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
@@ -90,6 +90,11 @@ body{
     text-align: center;
     color: var(--verde);
     text-transform: uppercase;
+}
+
+.contador{
+    font-size: 20px;
+    text-align: center;
 }
 
 
